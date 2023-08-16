@@ -59,3 +59,4 @@ Before running the project, ensure you have the following installed:
 - Axios (for API requests)
 
  ## Project View
+![20230816_164615](https://github.com/saiinfo/Bulk-Data-Updating-Project-Spring-Boot-React-/assets/26924010/3bf3cea5-ef40-454d-8d92-1a0646cbca48)
